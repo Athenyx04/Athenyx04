@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Buenas 👋, I'm Manuel Calvo Martín</h1>
 <h3 align="center">A soon to graduate, curious frontend developer from Salamanca (Spain)</h3>
 
-- 🔭 I’m currently working on [Demeter, my graduate thesis](https://github.com/Athenyx04/DemeterLAB)
+- 🔭 I’m currently working on [Demeter, my graduate thesis](https://github.com/Athenyx04/DemeterLAB), mainly on one of its submodules, which I'm developing at ESALAB, [Arion](https://github.com/Athenyx04/Arion). On my free time I also try to develop the website for my family's business, [Embutidos Siega Verde](https://github.com/Athenyx04/embutidos-siega-verde).
 
 - 🌱 I’m currently learning **Next.js (and by default, React) and Firebase**
 
-- 📫 How to reach me **manucalvom@gmail.com**
+- 📫 You can reach me on **manucalvom@gmail.com**
+
+- ⚡ My main hobbies are **Formula One**, **Eurovision** and **Esports**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
