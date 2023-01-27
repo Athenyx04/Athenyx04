@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Demeter, my graduate thesis](https://github.com/Athenyx04/DemeterLAB), mainly on one of its submodules, which I'm developing at ESALAB, [Arion](https://github.com/Athenyx04/Arion). On my free time I also try to develop the website for my family's business, [Embutidos Siega Verde](https://github.com/Athenyx04/embutidos-siega-verde).
 
-- 🌱 I’m currently learning **Next.js (and by default, React) and Firebase**.
+- 🌱 I’m currently learning **Next.js, Firebase and Docker**.
 
-- 📫 You can reach me on **manucalvom@gmail.com**!
+- 📫 You can reach me on **manuel.calvo@athenyx.com**!
 
 - ⚡ My main hobbies are **Formula One**, **Eurovision** and **Esports**.
 
