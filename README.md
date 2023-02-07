@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Buenas 👋, I'm Manuel Calvo Martín</h1>
 <h3 align="center">A soon to graduate, curious frontend developer from Salamanca (Spain)</h3>
 
-- 🔭 I’m currently working on [Demeter, my graduate thesis](https://github.com/Athenyx04/DemeterLAB), mainly on one of its submodules, which I'm developing at ESALAB, [Arion](https://github.com/Athenyx04/Arion). On my free time I also try to develop the website for my family's business, [Embutidos Siega Verde](https://github.com/Athenyx04/embutidos-siega-verde).
+- 🔭 I’m currently working on [Demeter, my graduate thesis](https://github.com/Athenyx04/DemeterLAB), while I'm developing lovely software at [AXPE Consulting](https://www.axpe.com/). On my free time I also try to develop the website for my family's business, [Embutidos Siega Verde](https://github.com/Athenyx04/embutidos-siega-verde).
 
-- 🌱 I’m currently learning **Next.js, Firebase and Docker**.
+- 🌱 I’m currently learning **Next.js and Docker**.
 
 - 📫 You can reach me on **manuel.calvo@athenyx.com**!
 
