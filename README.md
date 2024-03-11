@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Buenas 👋, I'm Manuel Calvo Martín</h1>
 <h3 align="center">A curious frontend developer from Salamanca (Spain)</h3>
 
-- 🔭 I’m currently developing lovely software at [uXcale](https://www.uxcale.com/), studying a Web Engineering masters at the Technical University of Madrid and working on [Demeter, my graduate thesis](https://github.com/Athenyx04/DemeterLAB). On my free time I also try to develop the website for my family's business, [Embutidos Siega Verde](https://github.com/Athenyx04/embutidos-siega-verde), and a Eurovision database/sorter called [eurovision.place](https://www.eurovision.place/).
+- 🔭 I’m currently developing lovely software at [uXcale](https://www.uxcale.com/), studying a Web Engineering masters at the Technical University of Madrid and working on [Demeter, my graduate thesis](https://github.com/Athenyx04/DemeterLAB). On my free time I also try to develop a Eurovision database/sorter called [eurovision.place](https://www.eurovision.place/) and the website for my family's business, [Embutidos Siega Verde](https://github.com/Athenyx04/embutidos-siega-verde).
 
 - 🌱 I’m currently learning **Astro, Playwright** and I'm tinkering with **AWS**.
 
